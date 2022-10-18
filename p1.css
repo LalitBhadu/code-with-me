@@ -18,4 +18,15 @@ li{
 footer{
     background-color:yellowgreen;
     display: inline;
+    margin: 2px;
+    padding: 2px;
+
+}
+MAIN{
+    background-color: rgb(14, 166, 204);
+    width: 100vw;
+    height: 100vw;
+}
+h1{
+    background-color: rgb(red, green, blue);
 }
